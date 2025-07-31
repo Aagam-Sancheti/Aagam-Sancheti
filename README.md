@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aagam-Sancheti
-- 👀 I’m interested in Computer Science and Internet Networks. Passionate about Cybersecurity.
-- 🌱 I’m currently learning competitive and object oriented programming.
+- 👀 I’m currently a B.Tech student at Visvesvaraya National Institure of Technology, Nagpur
+- 🌱 I’m passionate about Artificial Intelligence, Computer Networks and Cybersecurity
 - 💞️ I’m looking to collaborate on some creative projects.
 - 📫 How to reach me , mail me on my email id aagam.sancheti@gmail.con
 
